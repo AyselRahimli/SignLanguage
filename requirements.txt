@@ -1,8 +1,6 @@
-streamlit
-os
-imageio 
-tensorflow
-utils
-modelutil
-opencv==4.9.0
-numpy
+streamlit==0.89.0
+transformers==4.11.3
+imageio==2.9.0
+tensorflow==2.6.0
+opencv-python==4.5.3.56
+numpy==1.21.2
