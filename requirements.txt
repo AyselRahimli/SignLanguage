@@ -1,7 +1,7 @@
-streamlit==0.89.0
-transformers==4.11.3
-numpy==1.26.4
-imageio==2.9.0
+streamlit
+transformers
+numpy
+imageio
 tensorflow
-opencv-python==4.5.3.56
+opencv-python
 
