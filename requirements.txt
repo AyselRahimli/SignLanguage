@@ -4,3 +4,5 @@ imageio
 tensorflow
 utils
 modelutil
+opencv==4.9.0
+numpy
